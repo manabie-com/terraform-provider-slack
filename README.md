@@ -7,8 +7,8 @@ management of Slack resources.
 
 ### Quick Start
 
-- [Using the provider ](https://registry.terraform.io/providers/pablovarela/slack/latest/docs)
+- [Using the provider ](https://registry.terraform.io/providers/manabie/slack/latest/docs)
 
 ### Documentation
 
-Full, comprehensive documentation is available on the Terraform Registry: https://registry.terraform.io/providers/pablovarela/slack/latest/docs
+Full, comprehensive documentation is available on the Terraform Registry: https://registry.terraform.io/providers/manabie/slack/latest/docs
