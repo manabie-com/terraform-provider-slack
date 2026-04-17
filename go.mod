@@ -22,7 +22,7 @@ require (
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
 	github.com/slack-go/slack v0.10.2
 	github.com/stretchr/testify v1.7.0
-	github.com/ulikunitz/xz v0.5.10 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	github.com/ysmood/golangci-lint v0.4.0
 	golang.org/x/net v0.0.0-20210614182718-04defd469f4e // indirect
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
