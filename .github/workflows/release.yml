@@ -36,7 +36,7 @@ jobs:
           PASSPHRASE: ${{ secrets.PASSPHRASE }}
 
       - name: Run GoReleaser
-        uses: goreleaser/goreleaser-action@e24998b8b67b290c2fa8b7c14fcfa7de2c5c9b8c
+        uses: goreleaser/goreleaser-action@a4f02ab5355a589de60d917a659ce617ed19b3de
         with:
           args: release --clean
         env:
